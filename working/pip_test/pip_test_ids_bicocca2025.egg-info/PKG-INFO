@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: pip_test_ids_bicocca2025
+Version: 0.0.3
+Summary: simple test for pip
+Author: Carminati Leonardo
+Author-email: davide.gerosa@unimib.it
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: pathos
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary

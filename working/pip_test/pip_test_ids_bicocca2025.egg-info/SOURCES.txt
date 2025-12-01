@@ -1,0 +1,9 @@
+README.md
+setup.py
+pip_test_ids_bicocca2025/Ids.py
+pip_test_ids_bicocca2025/__init__.py
+pip_test_ids_bicocca2025.egg-info/PKG-INFO
+pip_test_ids_bicocca2025.egg-info/SOURCES.txt
+pip_test_ids_bicocca2025.egg-info/dependency_links.txt
+pip_test_ids_bicocca2025.egg-info/requires.txt
+pip_test_ids_bicocca2025.egg-info/top_level.txt
